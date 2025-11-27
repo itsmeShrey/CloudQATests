@@ -1,0 +1,18 @@
+A small NUnit + Selenium WebDriver test project that exercises three fields on the CloudQA AutomationPracticeForm:
+
+First Name — visible typing (with JS fallback)
+
+Gender (Male) — robust radio selection (label / value / JS fallback)
+
+Date of Birth — visible typing (with JS fallback)
+
+Steps to run the tests:
+# clone the repo
+git clone https://github.com/<your-org-or-username>/<repo-name>.git
+cd <repo-name>
+
+# restore packages
+dotnet restore
+
+# run tests
+dotnet test
