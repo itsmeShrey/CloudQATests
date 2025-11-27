@@ -9,6 +9,7 @@ Date of Birth — visible typing (with JS fallback)
 Steps to run the tests:
 # clone the repo
 git clone [https://github.com/itsmeShrey/CloudQATests.git](https://github.com/itsmeShrey/CloudQATests)
+
 cd CloudQATests
 
 # restore packages
